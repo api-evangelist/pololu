@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pololu is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.pololu.com/
+Pololu designs and manufactures robotics and electronics components, offering a wide range of products such as robot kits, motor controllers, sensors, and custom laser cutting services. Their website provides extensive documentation, product specifications, and support resources for hobbyists, educators, and engineers building projects with Arduino, Raspberry Pi, and other platforms.
+
+**Areas:** Company · Robotics · Electronics · Hobbyist · Engineering · OpenSource
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pololu.com/)
+- [Documentation](https://www.pololu.com/docs)
+- [Support](https://www.pololu.com/support)
+- [Blog](https://www.pololu.com/blog)
+- [GitHub](https://github.com/pololu)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pololu/](https://apis.io/providers/pololu/).
